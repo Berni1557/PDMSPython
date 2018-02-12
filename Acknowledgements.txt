@@ -1,0 +1,24 @@
+=====================================================
+German:
+=====================================================
+Dieser Quellcode entstand im Rahmen des Project BeMobil
+
+
+Autoren:
+Bernhard Föllmer
+Galina Litkin
+Linda ramisch
+
+Lizenz (siehe License.txt): BSD 3-Clause
+
+=====================================================
+English:
+=====================================================
+This source code was developed in the context of the Project BeMobil.
+
+Authors:
+Bernhard Föllmer
+Galina Litkin
+Linda ramisch
+
+License (see License.txt): BSD 3-Clause
